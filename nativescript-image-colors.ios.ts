@@ -1,6 +1,6 @@
 import { ColorPalette, IosPalette } from './nativescript-image-colors.common';
 import { Image } from 'tns-core-modules/ui/image';
-import { Color } from 'tns-core-modules/color';
+import { Color } from 'tns-core-modules/color/color';
 
 declare const SLColorArt: any;
 
