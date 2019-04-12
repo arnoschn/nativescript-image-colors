@@ -1,4 +1,4 @@
-import { Color } from 'tns-core-modules/color';
+//import { Color } from 'tns-core-modules/color';
 
 export interface AndroidPalette {
   vibrant: Color,
