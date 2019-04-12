@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-image-colors",
+  "name": "nativescript-image-colorsx",
   "version": "1.1.1",
   "description": "NativeScript colors from images.",
   "main": "nativescript-image-colors.js",
@@ -38,7 +38,7 @@
     "type": "MIT",
     "url": "https://github.com/TheOriginalJosh/nativescript-image-colors/blob/master/LICENSE"
   },
-  "homepage": "https://github.com/TheOriginalJosh/nativescript-image-colors",
+  "homepage": "https://github.com/arnoschn/nativescript-image-colors.git",
   "readmeFilename": "README.md",
   "devDependencies": {
     "tns-core-modules": "^3.1.0",
